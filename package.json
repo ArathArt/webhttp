@@ -1,0 +1,22 @@
+{
+  "name": "webhttp.js",
+  "version": "1.0.0",
+  "description": "prueba del http usando texto plano",
+  "main": "webhttp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArathArt/webhttp.git"
+  },
+  "keywords": [
+    "webhttp"
+  ],
+  "author": "arath baca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArathArt/webhttp/issues"
+  },
+  "homepage": "https://github.com/ArathArt/webhttp#readme"
+}
